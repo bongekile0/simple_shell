@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -10,7 +9,7 @@
 
 int hello(void)
 {
-	print(betty pass);
+	printf("betty pass");
 
 	return (0);
 }
